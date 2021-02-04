@@ -1,6 +1,7 @@
 {
   "name": "dietercoopman/objects",
   "description": "Objects class",
+  "license": "MIT",
   "type": "library",
   "authors": [
     {
