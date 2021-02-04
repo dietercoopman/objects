@@ -4,7 +4,7 @@
 
 # Objects
 
-package to transform objects to arrays and vice versa
+package to transform objects to arrays and vice versa , this package tackles the problem of converting nested objects to a multidimensional array.
 
 ## Examples
 
