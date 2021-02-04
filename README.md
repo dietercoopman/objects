@@ -1,5 +1,5 @@
 
-![Tests](https://github.com/dietercoopman/objects/workflows/TESTS/badge.svg?label=tests)
+![Tests](https://github.com/dietercoopman/objects/workflows/tests/badge.svg)
 ![Downloads](https://img.shields.io/packagist/dt/dietercoopman/objects.svg?style=flat-square)
 
 # Objects
