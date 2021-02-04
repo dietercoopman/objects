@@ -1,5 +1,5 @@
 
-![Tests](https://github.com/dietercoopman/objects/workflows/CI/badge.svg)
+![Tests](https://github.com/dietercoopman/objects/workflows/TESTS/badge.svg)
 
 # Objects
 
