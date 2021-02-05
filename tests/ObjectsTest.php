@@ -40,7 +40,7 @@ class ObjectsTest extends TestCase
     }
 
     /** @test */
-    public function it_works(){
+    public function it_preserves_the_original_keys(){
         $object = (object) ['id' => 1];
         $objects = new Objects($object);
 
